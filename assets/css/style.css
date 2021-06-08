@@ -19,7 +19,7 @@
   position: absolute;
   top: 0;
   right: 0;
-  margin-top: 0.05em;
+  margin-top: 0.0em;
   font-size: 1em;
   margin-right: 2.7em;
 }
@@ -49,8 +49,8 @@ h3 {
 }
 
 .all {
-  width: 500px;
-  height: 300px;
+  width: 300px;
+  height: 450px;
 }
 
 .all:hover .india {
@@ -58,8 +58,7 @@ h3 {
 }
 
 .photoo {
-  width: 20em;
-  height: 20em;
+  width: 400px;
   -webkit-transition: all 1s;
   transition: all 1s;
 }
