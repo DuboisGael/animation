@@ -22,11 +22,11 @@ Dont't use JS of course
 
 ## Screenshot
 
-
+<img src="./assets/image/animation.jpeg"/> 
 
 ## Voir le projet
 
-[https://gael-dubois-animation.vercel.app/](https://gael-dubois-animation.vercel.app/)
+You can view my project here [https://gael-dubois-animation.vercel.app/](https://gael-dubois-animation.vercel.app/)
 
 
 
