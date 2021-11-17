@@ -29,7 +29,5 @@ Dont't use JS of course
 You can view my project here [https://gael-dubois-animation.vercel.app/](https://gael-dubois-animation.vercel.app/)
 
 
-
-
 ## Auteurs
-* **Gael Dubois**(https://github.com/DuboisGael)
+**Gael Dubois**(https://github.com/DuboisGael)
